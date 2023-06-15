@@ -2,8 +2,8 @@
 **SHORTENITE** is a modern, open-source link management tool for modern marketing teams to create, share, and track short links.
 _Contributions and bug reports are welcome._
 
-![Contributions](https://img.shields.io/badge/contributions-welcome-green)]
-![GitHub license](https://img.shields.io/github/license/princesuman7/shortenite?style=plastic)]
+![Contributions](https://img.shields.io/badge/contributions-welcome-green)
+![GitHub license](https://img.shields.io/github/license/princesuman7/shortenite?style=plastic)
 
 #Introduction
 
